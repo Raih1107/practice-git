@@ -1,1 +1,3 @@
-let age:String = 'h';
+let age:number = 5;
+console.log(age);
+
